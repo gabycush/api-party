@@ -23,7 +23,7 @@ class Chuck extends Component {
       <div className="chuck">
         <img src="http://cdn.business2community.com/wp-content/uploads/2016/03/Vd3MJo.jpg" alt="chuck logo" className="chuck-logo"/>
 
-        <h3> Catagories </h3>
+        <h3> Categories </h3>
         <table>
         <tr>
           <td>dev</td>
